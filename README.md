@@ -9,4 +9,4 @@ pisca com intervalo de tempo de 100ms. LDM mostra a temperatura na primeira
 linha e na segunda linha mostra “Muito Alta”, “Muito Baixa”, ou “Valor
 Adequado”
 
-Para conpilar o código, recomenda-se o uso da IDE MPLab-X https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide
+Para compilar o código, recomenda-se o uso da IDE MPLab-X https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide
